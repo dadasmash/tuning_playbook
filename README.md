@@ -211,7 +211,7 @@ will be the largest batch size supported by the available hardware.*
         validation set
         performance?](#why-shouldnt-the-batch-size-be-tuned-to-directly-improve-validation-set-performance)
 
-- [a great explanation:] (https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network)
+- [a great explanation:](https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network)
 #### Determining the feasible batch sizes and estimating training throughput
 
 
