@@ -35,7 +35,7 @@
     -   [Evaluating model performance](#evaluating-model-performance)
     -   [Saving checkpoints and retrospectively selecting the best checkpoint](#Saving-checkpoints-and-retrospectively-selecting-the-best-checkpoint)
     -   [Setting up experiment tracking](#Setting-up-experiment-tracking)
-    -   [Batch normalization implementation details](#Batch-normalization-implementation-details)
+    -   [ normalization implementation details](#-normalization-implementation-details)
     -   [Considerations for multi-host pipelines](#Considerations-for-multi-host-pipelines)
 -   [FAQs](#faqs)
 -   [Acknowledgments](#acknowledgments)
@@ -211,6 +211,7 @@ will be the largest batch size supported by the available hardware.*
         validation set
         performance?](#why-shouldnt-the-batch-size-be-tuned-to-directly-improve-validation-set-performance)
 
+- [a great explanation:] (https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network)
 #### Determining the feasible batch sizes and estimating training throughput
 
 
