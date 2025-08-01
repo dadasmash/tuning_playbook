@@ -212,6 +212,7 @@ will be the largest batch size supported by the available hardware.*
         performance?](#why-shouldnt-the-batch-size-be-tuned-to-directly-improve-validation-set-performance)
 
 - [A Great Explanation!](https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network)
+- [Other Explanation] (https://medium.com/geekculture/how-does-batch-size-impact-your-model-learning-2dd34d9fb1fa; https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent; https://arxiv.org/pdf/1802.06175; https://medium.com/%40harsharora0703/gradient-descent-and-stochastic-gradient-descent-53bbd1b9b0ff; https://opt-ml.org/papers/2021/paper24.pdf; https://www.geeksforgeeks.org/deep-learning/batch-size-in-neural-network/; https://www.youtube.com/watch?v=Ilg3gGewQ5U; https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4) 
 #### Determining the feasible batch sizes and estimating training throughput
 
 
